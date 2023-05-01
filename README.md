@@ -104,9 +104,15 @@ You are required to submit the following for review:
 
 * A walkthrough video that demonstrates the functionality of the application and passing tests.
 
+![Gif Demo of README-generator](./Images/SVG-Logo-demo.gif).
+
 * At least one sample SVG file generated using your application.
 
+![Example](./Examples/logo-1.svg)
+
 * The URL of the GitHub repository, with a unique name and a README describing the project.
+
+https://github.com/floretdemola/SVG-Logo
 
 ---
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
